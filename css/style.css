@@ -1,0 +1,177 @@
+body {
+    font-family: 'Roboto',
+        sans-serif;
+    color: #6d7396;
+}
+
+.navbar-nav {
+    font-size: 15px;
+    font-weight: 500;
+    color: #3b404f;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    background: #fff;
+    opacity: 1;
+}
+
+.carousel-indicators .active {
+    background-color: #fab702;
+    width: 8px;
+    height: 8px;
+}
+
+.carousel-title {
+    font-size: 44px;
+    color: #fff;
+    font-weight: 900;
+}
+
+.carousel-text {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.carousel-inner {
+    position: relative;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 40%;
+    bottom: 50%;
+    left: 23%;
+    right: 25%;
+}
+
+.alert {
+    background-color: #fab702;
+    margin-bottom: 130px;
+}
+
+.alert-text {
+    font-size: 30px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.alert-btn {
+    font-size: 16px;
+    color: #232323;
+    font-weight: 400;
+    background-color: #fff;
+}
+
+.alert-link {
+    color: #000;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+.block-title {
+    font-size: 44px;
+    font-weight: 700;
+    color: #3b404f;
+    text-transform: uppercase;
+}
+
+.block-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.cards {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #3b404f;
+    text-transform: uppercase;
+}
+
+.card-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.link {
+    font-size: 14px;
+    font-weight: 400;
+    color: #3b404f;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.build {
+    color: #468bb9;
+    font-size: 30px;
+}
+
+.house {
+    color: #199545;
+    font-size: 30px;
+}
+
+.refub {
+    font-size: 30px;
+    color: #890c49;
+}
+
+.blocks {
+    max-width: 800px;
+    margin: 100px auto 0 auto;
+}
+
+.items {
+    padding-top: 90px;
+    padding-bottom: 110px;
+}
+
+.item-title {
+    font-size: 20px;
+    color: #3b404f;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.item-text {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.card-sign {
+    font-size: 11px;
+    font-weight: 500;
+    color: #3b404f;
+}
+
+.logo {
+    margin: 120px auto 0 auto;
+}
+
+.footer {
+    background-color: #4c5b6d;
+    padding: 20px;
+    margin-top: 80px;
+}
+
+.footer p {
+    font-size: 13px;
+    font-weight: 400;
+    color: #d8deff;
+    text-transform: uppercase;
+    margin: auto 0;
+}
